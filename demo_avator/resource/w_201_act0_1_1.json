@@ -1,0 +1,10 @@
+{"typeName":"战士炼狱-女","resName":"w_201_act0_1_1","act_dir":"1","act_speed":"4","SubTexture": [
+{"ofy":"-50","name":"act_103","y":"0","frameX":"0","frameWidth":"87","height":"13","frameHeight":"13","frameY":"0","ofx":"-99","width":"87","x":"0"}
+,{"ofy":"-80","name":"act_105","y":"0","frameX":"0","frameWidth":"39","height":"23","frameHeight":"23","frameY":"0","ofx":"14","width":"39","x":"87"}
+,{"ofy":"-51","name":"act_106","y":"0","frameX":"0","frameWidth":"52","height":"33","frameHeight":"33","frameY":"0","ofx":"11","width":"52","x":"126"}
+,{"ofy":"-51","name":"act_107","y":"0","frameX":"0","frameWidth":"52","height":"33","frameHeight":"33","frameY":"0","ofx":"11","width":"52","x":"126"}
+,{"ofy":"-68","name":"act_104","y":"0","frameX":"0","frameWidth":"82","height":"33","frameHeight":"33","frameY":"0","ofx":"-58","width":"82","x":"178"}
+,{"ofy":"-66","name":"act_102","y":"0","frameX":"0","frameWidth":"79","height":"39","frameHeight":"39","frameY":"0","ofx":"-66","width":"79","x":"260"}
+,{"ofy":"-54","name":"act_108","y":"0","frameX":"0","frameWidth":"78","height":"48","frameHeight":"48","frameY":"0","ofx":"-2","width":"78","x":"339"}
+,{"ofy":"-91","name":"act_101","y":"0","frameX":"0","frameWidth":"36","height":"78","frameHeight":"78","frameY":"0","ofx":"2","width":"36","x":"417"}]
+,"act_len":"8","acts":"act"}

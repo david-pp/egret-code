@@ -1,0 +1,11 @@
+{"act5_speed":"4","acts":"act5","act5_len":"10","act5_dir":"1","subtexture":{"act5_106":{"ofx":-130,"name":"act5_106","y":"94","ofy":-241,"width":"271","frameX":"0","x":"206","height":"256","frameY":"0","frameHeight":"256","frameWidth":"271"}
+,"act5_105":{"ofx":-88,"name":"act5_105","y":"0","ofy":-98,"width":"169","frameX":"0","x":"1","height":"67","frameY":"0","frameHeight":"67","frameWidth":"169"}
+,"act5_110":{"ofx":-65,"name":"act5_110","y":"0","ofy":-168,"width":"198","frameX":"0","x":"598","height":"163","frameY":"0","frameHeight":"163","frameWidth":"198"}
+,"act5_104":{"ofx":-124,"name":"act5_104","y":"0","ofy":-102,"width":"144","frameX":"0","x":"170","height":"70","frameY":"0","frameHeight":"70","frameWidth":"144"}
+,"act5_102":{"ofx":-100,"name":"act5_102","y":"0","ofy":-135,"width":"118","frameX":"0","x":"480","height":"112","frameY":"0","frameHeight":"112","frameWidth":"118"}
+,"act5_103":{"ofx":-157,"name":"act5_103","y":"0","ofy":-119,"width":"166","frameX":"0","x":"314","height":"94","frameY":"0","frameHeight":"94","frameWidth":"166"}
+,"act5_101":{"ofx":-320,"name":"act5_101","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act5_107":{"ofx":-122,"name":"act5_107","y":"163","ofy":-251,"width":"260","frameX":"0","x":"477","height":"264","frameY":"0","frameHeight":"264","frameWidth":"260"}
+,"act5_109":{"ofx":-65,"name":"act5_109","y":"0","ofy":-169,"width":"208","frameX":"0","x":"796","height":"164","frameY":"0","frameHeight":"164","frameWidth":"208"}
+,"act5_108":{"ofx":-65,"name":"act5_108","y":"70","ofy":-165,"width":"206","frameX":"0","x":"0","height":"174","frameY":"0","frameHeight":"174","frameWidth":"206"}}
+,"typeName":"烈火-剑法(act5)","resName":"skill_1_act5_1_1"}

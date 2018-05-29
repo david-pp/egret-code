@@ -1,0 +1,10 @@
+{"typeName":"战士斩马刀-女","resName":"w_101_act0_1_1","act_speed":"4","SubTexture": [
+{"frameY":"0","name":"act_105","y":"0","ofx":"10","frameX":"0","frameHeight":"10","ofy":"-73","height":"10","frameWidth":"41","width":"41","x":"0"}
+,{"frameY":"0","name":"act_103","y":"0","ofx":"-120","frameX":"0","frameHeight":"10","ofy":"-48","height":"10","frameWidth":"93","width":"93","x":"41"}
+,{"frameY":"0","name":"act_106","y":"0","ofx":"19","frameX":"0","frameHeight":"29","ofy":"-49","height":"29","frameWidth":"58","width":"58","x":"134"}
+,{"frameY":"0","name":"act_107","y":"0","ofx":"19","frameX":"0","frameHeight":"29","ofy":"-49","height":"29","frameWidth":"58","width":"58","x":"134"}
+,{"frameY":"0","name":"act_104","y":"0","ofx":"-81","frameX":"0","frameHeight":"33","ofy":"-67","height":"33","frameWidth":"91","width":"91","x":"192"}
+,{"frameY":"0","name":"act_102","y":"0","ofx":"-90","frameX":"0","frameHeight":"40","ofy":"-74","height":"40","frameWidth":"91","width":"91","x":"283"}
+,{"frameY":"0","name":"act_108","y":"0","ofx":"12","frameX":"0","frameHeight":"54","ofy":"-64","height":"54","frameWidth":"84","width":"84","x":"374"}
+,{"frameY":"0","name":"act_101","y":"0","ofx":"12","frameX":"0","frameHeight":"88","ofy":"-113","height":"88","frameWidth":"16","width":"16","x":"458"}]
+,"act_dir":"1","act_len":"8","acts":"act"}

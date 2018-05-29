@@ -1,0 +1,9 @@
+{"acts":"act","act_len":"8","typeName":"战士（3阶）","act_speed":"4","subtexture":{"act_106":{"x":"116","y":"0","frameX":"0","frameY":"0","width":"139","frameHeight":"130","ofx":-44,"height":"130","frameWidth":"139","ofy":-126,"name":"act_106"}
+,"act_104":{"x":"342","y":"0","frameX":"0","frameY":"0","width":"73","frameHeight":"136","ofx":-53,"height":"136","frameWidth":"73","ofy":-140,"name":"act_104"}
+,"act_105":{"x":"0","y":"0","frameX":"0","frameY":"0","width":"116","frameHeight":"120","ofx":-43,"height":"120","frameWidth":"116","ofy":-134,"name":"act_105"}
+,"act_103":{"x":"0","y":"120","frameX":"0","frameY":"0","width":"112","frameHeight":"144","ofx":-97,"height":"144","frameWidth":"112","ofy":-141,"name":"act_103"}
+,"act_107":{"x":"255","y":"0","frameX":"0","frameY":"0","width":"87","frameHeight":"135","ofx":-11,"height":"135","frameWidth":"87","ofy":-113,"name":"act_107"}
+,"act_108":{"x":"158","y":"135","frameX":"0","frameY":"0","width":"157","frameHeight":"159","ofx":-52,"height":"159","frameWidth":"157","ofy":-139,"name":"act_108"}
+,"act_102":{"x":"415","y":"0","frameX":"0","frameY":"0","width":"54","frameHeight":"143","ofx":-48,"height":"143","frameWidth":"54","ofy":-136,"name":"act_102"}
+,"act_101":{"x":"112","y":"130","frameX":"0","frameY":"0","width":"46","frameHeight":"157","ofx":-50,"height":"157","frameWidth":"46","ofy":-151,"name":"act_101"}}
+,"resName":"cb_wing02_act0_1_1","act_dir":"1"}

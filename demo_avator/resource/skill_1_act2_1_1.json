@@ -1,0 +1,9 @@
+{"act2_dir":"1","act2_len":"8","typeName":"基本-刺杀(act2)","acts":"act2","act2_speed":"4","subtexture":{"act2_101":{"ofx":-320,"name":"act2_101","y":"0","ofy":-370,"width":"1","frameX":"0","x":"1","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act2_102":{"ofx":-96,"name":"act2_102","y":"0","ofy":-128,"width":"110","frameX":"0","x":"296","height":"103","frameY":"0","frameHeight":"103","frameWidth":"110"}
+,"act2_107":{"ofx":-18,"name":"act2_107","y":"103","ofy":-182,"width":"216","frameX":"0","x":"170","height":"177","frameY":"0","frameHeight":"177","frameWidth":"216"}
+,"act2_103":{"ofx":-162,"name":"act2_103","y":"0","ofy":-114,"width":"152","frameX":"0","x":"144","height":"82","frameY":"0","frameHeight":"82","frameWidth":"152"}
+,"act2_108":{"ofx":-320,"name":"act2_108","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act2_105":{"ofx":-83,"name":"act2_105","y":"82","ofy":-115,"width":"170","frameX":"0","x":"0","height":"115","frameY":"0","frameHeight":"115","frameWidth":"170"}
+,"act2_106":{"ofx":-48,"name":"act2_106","y":"280","ofy":-158,"width":"174","frameX":"0","x":"0","height":"190","frameY":"0","frameHeight":"190","frameWidth":"174"}
+,"act2_104":{"ofx":-118,"name":"act2_104","y":"0","ofy":-93,"width":"142","frameX":"0","x":"2","height":"51","frameY":"0","frameHeight":"51","frameWidth":"142"}}
+,"resName":"skill_1_act2_1_1"}

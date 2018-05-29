@@ -1,0 +1,10 @@
+{"move_dir":"1","move_speed":"2","typeName":"女","resName":"p_401_move_1_1","SubTexture": [
+{"ofy":"-86","name":"move_103","y":"0","frameHeight":"85","frameWidth":"56","height":"85","frameX":"0","frameY":"0","ofx":"-37","width":"56","x":"0"}
+,{"ofy":"-87","name":"move_107","y":"0","frameHeight":"87","frameWidth":"48","height":"87","frameX":"0","frameY":"0","ofx":"-28","width":"48","x":"56"}
+,{"ofy":"-86","name":"move_102","y":"0","frameHeight":"88","frameWidth":"63","height":"88","frameX":"0","frameY":"0","ofx":"-39","width":"63","x":"104"}
+,{"ofy":"-89","name":"move_106","y":"0","frameHeight":"89","frameWidth":"60","height":"89","frameX":"0","frameY":"0","ofx":"-35","width":"60","x":"167"}
+,{"ofy":"-87","name":"move_104","y":"0","frameHeight":"90","frameWidth":"56","height":"90","frameX":"0","frameY":"0","ofx":"-36","width":"56","x":"227"}
+,{"ofy":"-86","name":"move_108","y":"0","frameHeight":"91","frameWidth":"49","height":"91","frameX":"0","frameY":"0","ofx":"-30","width":"49","x":"283"}
+,{"ofy":"-86","name":"move_101","y":"0","frameHeight":"95","frameWidth":"60","height":"95","frameX":"0","frameY":"0","ofx":"-36","width":"60","x":"332"}
+,{"ofy":"-89","name":"move_105","y":"0","frameHeight":"96","frameWidth":"55","height":"96","frameX":"0","frameY":"0","ofx":"-37","width":"55","x":"392"}]
+,"move_len":"8","acts":"move"}

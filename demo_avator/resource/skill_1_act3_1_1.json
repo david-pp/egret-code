@@ -1,0 +1,10 @@
+{"act3_dir":"1","act3_speed":"4","act3_len":"9","resName":"skill_1_act3_1_1","subtexture":{"act3_101":{"ofx":-320,"name":"act3_101","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act3_105":{"ofx":-78,"name":"act3_105","y":"0","ofy":-88,"width":"168","frameX":"0","x":"123","height":"63","frameY":"0","frameHeight":"63","frameWidth":"168"}
+,"act3_107":{"ofx":-98,"name":"act3_107","y":"214","ofy":-156,"width":"294","frameX":"0","x":"301","height":"217","frameY":"0","frameHeight":"217","frameWidth":"294"}
+,"act3_102":{"ofx":-320,"name":"act3_102","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act3_109":{"ofx":-82,"name":"act3_109","y":"0","ofy":-152,"width":"280","frameX":"0","x":"451","height":"214","frameY":"0","frameHeight":"214","frameWidth":"280"}
+,"act3_106":{"ofx":-62,"name":"act3_106","y":"0","ofy":-89,"width":"160","frameX":"0","x":"291","height":"63","frameY":"0","frameHeight":"63","frameWidth":"160"}
+,"act3_103":{"ofx":-320,"name":"act3_103","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act3_108":{"ofx":-103,"name":"act3_108","y":"63","ofy":-153,"width":"301","frameX":"0","x":"0","height":"215","frameY":"0","frameHeight":"215","frameWidth":"301"}
+,"act3_104":{"ofx":-90,"name":"act3_104","y":"0","ofy":-71,"width":"122","frameX":"0","x":"1","height":"47","frameY":"0","frameHeight":"47","frameWidth":"122"}}
+,"typeName":"半月-弯刀(act3)","acts":"act3"}

@@ -1,0 +1,9 @@
+{"act1_dir":"1","act1_len":"8","typeName":"攻杀-剑术(act1)","acts":"act1","act1_speed":"4","subtexture":{"act1_102":{"ofx":-320,"name":"act1_102","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act1_107":{"ofx":-14,"name":"act1_107","y":"0","ofy":-137,"width":"110","frameX":"0","x":"1","height":"126","frameY":"0","frameHeight":"126","frameWidth":"110"}
+,"act1_103":{"ofx":-320,"name":"act1_103","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act1_108":{"ofx":33,"name":"act1_108","y":"0","ofy":-111,"width":"62","frameX":"0","x":"272","height":"156","frameY":"0","frameHeight":"156","frameWidth":"62"}
+,"act1_105":{"ofx":-320,"name":"act1_105","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act1_106":{"ofx":-65,"name":"act1_106","y":"0","ofy":-140,"width":"161","frameX":"0","x":"111","height":"126","frameY":"0","frameHeight":"126","frameWidth":"161"}
+,"act1_101":{"ofx":-320,"name":"act1_101","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}
+,"act1_104":{"ofx":-320,"name":"act1_104","y":"0","ofy":-370,"width":"1","frameX":"0","x":"0","height":"1","frameY":"0","frameHeight":"1","frameWidth":"1"}}
+,"resName":"skill_1_act1_1_1"}
